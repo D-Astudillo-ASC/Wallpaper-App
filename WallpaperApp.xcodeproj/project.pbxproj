@@ -14,6 +14,7 @@
 		491F24B2278371D000635A40 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 491F24B0278371D000635A40 /* Main.storyboard */; };
 		491F24BE278371D000635A40 /* WallpaperAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 491F24BD278371D000635A40 /* WallpaperAppTests.swift */; };
 		491F24C9278371D000635A40 /* WallpaperAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 491F24C8278371D000635A40 /* WallpaperAppUITests.swift */; };
+		4973EB1C278AD03C005BE663 /* Unsplashed-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4973EB1B278AD03C005BE663 /* Unsplashed-Info.plist */; };
 		49E0032027837BC7001B274B /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49E0031F27837BC7001B274B /* Model.swift */; };
 		49E0032B2783A3FC001B274B /* SDWebImageSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = 49E0032A2783A3FC001B274B /* SDWebImageSwiftUI */; };
 /* End PBXBuildFile section */
