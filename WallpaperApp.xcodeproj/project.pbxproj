@@ -50,6 +50,7 @@
 		491F24C4278371D000635A40 /* WallpaperAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WallpaperAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		491F24C8278371D000635A40 /* WallpaperAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WallpaperAppUITests.swift; sourceTree = "<group>"; };
 		491F24CA278371D000635A40 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4973EB1B278AD03C005BE663 /* Unsplashed-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Unsplashed-Info.plist"; sourceTree = "<group>"; };
 		49E0031F27837BC7001B274B /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -102,6 +103,7 @@
 		491F24A6278371C800635A40 /* WallpaperApp */ = {
 			isa = PBXGroup;
 			children = (
+				4973EB1B278AD03C005BE663 /* Unsplashed-Info.plist */,
 				491F24A7278371C800635A40 /* AppDelegate.swift */,
 				491F24A9278371C800635A40 /* ContentView.swift */,
 				491F24AB278371D000635A40 /* Assets.xcassets */,
@@ -252,6 +254,7 @@
 				491F24B2278371D000635A40 /* Main.storyboard in Resources */,
 				491F24AF278371D000635A40 /* Preview Assets.xcassets in Resources */,
 				491F24AC278371D000635A40 /* Assets.xcassets in Resources */,
+				4973EB1C278AD03C005BE663 /* Unsplashed-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
